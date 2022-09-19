@@ -1,8 +1,8 @@
 # Hello World! :wave:
 
-[ *Adalaber*](https://adalab.es/bootcamp-programacion/) *promo Q*
+*Adalaber promo Q*
 
-Mi naturaleza curiosa :eyes: e inquieta me llevan a explorar nuevos caminos. En mi última expedición descubrí en el sector tech un mundo apasionante en continuo cambio que alimenta mis ganas de conocimiento. Esto me ha llevado a cambiar mi rumbo profesional. Tras años de dedicación en el sector del turismo empiezo una nueva aventura como Desarrolladora Frontend y la afronto con entusiasmo y determinación. Soy una persona optimista y donde otras ven obtaculos yo veo retos.  
+Mi naturaleza curiosa :eyes: e inquieta me llevan a explorar nuevos caminos. En mi última expedición descubrí en el sector tech un mundo apasionante en continuo cambio que alimenta mis ganas de conocimiento. Esto me ha llevado a cambiar mi rumbo profesional. Tras años de dedicación en el sector del turismo empiezo una nueva aventura como **Desarrolladora Frontend** y la afronto con entusiasmo y determinación. Soy una persona optimista y donde otras ven obtaculos yo veo retos.  
 
 Busco completar mi desarrollo académico con un proyecto que me permita crecer a nivel profesional y personal y donde yo pueda también aportar valor.
 
